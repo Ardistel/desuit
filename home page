@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DeSuit,s.r.o.</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link href=/desuit.css type=text/css rel=stylesheet>
+</head>
+<body>
+<div class=tool_bar>
+<ul>
+<li>e-shop</li>
+<li>O nás</li>
+<li>Kontakt</li>
+<a href=http://desuit.ml/home >
+<li><img src=http://i.imgur.com/c1LG41y.png />
+</a>
+<!--<li>logo</li> -->
+<li>Naš tím</li>
+<li>Katalog</li>
+<li>Request demo</li>
+</ul>
+</div>
+<p>
+<h1>Novorocna ponuka az 20% zo vsetkych ponuk!</h1>
+<img src=http://liberiarentacar.com/wp-content/uploads/2013/09/logo-special-offer.gif />
+ked u nasich konkurentov akcii sa uz davno skoncili, u nas len zacinaju! Nievymekajte tuto vynimocnu ponuka do noveho roku.
+<br_/><h6>Akcia plati do 01.03.2017</h6>
+</p>
+</body>
+</html>
